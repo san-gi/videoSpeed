@@ -3,9 +3,6 @@
     "name": "videoSpeed",
     "version": "1.0",
     "description": "Mini projet de gestion de vitesse d'extension par extension firefox.",
-    "icons": {
-        "48": "icons/border-48.png"
-    },
     "content_scripts": [
         {
             "matches": [
