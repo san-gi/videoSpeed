@@ -1,5 +1,3 @@
-document.querySelector('video').playbackRate = 1
-document.querySelector('.title').style.border = "5px solid red";
 var a = document.getElementsByClassName('ytd-video-primary-info-renderer')[0]
 function ChangeVitesse() {
     console.log(document.getElementById("vitesse2"))
